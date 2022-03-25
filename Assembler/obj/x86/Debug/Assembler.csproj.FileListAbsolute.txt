@@ -1,0 +1,16 @@
+D:\Teaching\ECS\Excersises\Ex2\Assembler\bin\Debug\Assembler.exe
+D:\Teaching\ECS\Excersises\Ex2\Assembler\bin\Debug\Assembler.pdb
+D:\Teaching\ECS\Excersises\Ex2\Assembler\obj\x86\Debug\Assembler.exe
+D:\Teaching\ECS\Excersises\Ex2\Assembler\obj\x86\Debug\Assembler.pdb
+D:\Teaching\ECS\Excersises\Ex3\Code\Assembler\obj\x86\Debug\Assembler.exe
+D:\Teaching\ECS\Excersises\Ex3\Code\Assembler\obj\x86\Debug\Assembler.pdb
+D:\Teaching\ECS\2016\Ex2.3\Code\Assembler\obj\x86\Debug\Assembler.exe
+D:\Teaching\ECS\2016\Ex2.3\Code\Assembler\obj\x86\Debug\Assembler.pdb
+D:\Teaching\ECS\2017\Ex2.3\Code\Assembler\obj\x86\Debug\Assembler.exe
+D:\Teaching\ECS\2017\Ex2.3\Code\Assembler\obj\x86\Debug\Assembler.pdb
+C:\Users\annak\Desktop\לימודים\שנה ב\סמסטר א\מבנה מערכות מחשוב\עבודה 2.3\Code\Assembler\bin\Debug\Assembler.exe
+C:\Users\annak\Desktop\לימודים\שנה ב\סמסטר א\מבנה מערכות מחשוב\עבודה 2.3\Code\Assembler\bin\Debug\Assembler.pdb
+C:\Users\annak\Desktop\לימודים\שנה ב\סמסטר א\מבנה מערכות מחשוב\עבודה 2.3\Code\Assembler\obj\x86\Debug\Assembler.csprojAssemblyReference.cache
+C:\Users\annak\Desktop\לימודים\שנה ב\סמסטר א\מבנה מערכות מחשוב\עבודה 2.3\Code\Assembler\obj\x86\Debug\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\annak\Desktop\לימודים\שנה ב\סמסטר א\מבנה מערכות מחשוב\עבודה 2.3\Code\Assembler\obj\x86\Debug\Assembler.exe
+C:\Users\annak\Desktop\לימודים\שנה ב\סמסטר א\מבנה מערכות מחשוב\עבודה 2.3\Code\Assembler\obj\x86\Debug\Assembler.pdb
